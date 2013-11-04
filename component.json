@@ -1,0 +1,22 @@
+{
+  "name": "youtube-player-element",
+  "repo": "viatropos/youtube-player-element",
+  "description": "Youtube Player Element component",
+  "version": "0.0.1",
+  "keywords": [],
+  "author": "Lance Pollard <lancejpollard@gmail.com>",
+  "dependencies": {
+    "tower/element": "*",
+    "viatropos/youtube-player": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*",
+    "tower/template": "*",
+    "tower/content": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "remotes": []
+}
