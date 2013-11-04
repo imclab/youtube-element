@@ -3,13 +3,13 @@
 ## Installation
 
 ```bash
-component install viatropos/youtube-player-element
+component install viatropos/youtube-element
 ```
 
 ## Example
 
 ```js
-require('youtube-player-element');
+require('youtube-element');
 ```
 
 ## Licence
